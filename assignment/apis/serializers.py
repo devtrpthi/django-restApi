@@ -4,11 +4,11 @@ from .models import Work, Artist
 class WorkSerializer(serializers.ModelSerializer):
     class Meta:
         model = Work
-        fields = ['link', 'work_type']
+        fields = ['Link', 'Work_type']
 
 class ArtistSerializer(serializers.ModelSerializer):
-    works = WorkSerializer(many=True)
+    Arwork = WorkSerializer(many=True)
 
     class Meta:
         model = Artist
-        fields = ['name', 'works']
+        fields = ['Arname', 'Arwork']
