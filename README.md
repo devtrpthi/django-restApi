@@ -10,9 +10,9 @@ Clone the repository using the command
 
 <h2>Usage</h2>
 To use the application, start the development server using the command python manage.py runserver and navigate to http://localhost:8000/ in your web browser.
-The following REST API endpoints are available:
+<!---The following REST API endpoints are available:
 
 /api/works - Displays a list of works.
 /api/works?artist=[Artist Name] - Filters the list of works by artist.
 /api/works?work_type=[Work Type] - Filters the list of works by work type.
-/api/register - Registers a new user with a username and password.
+/api/register - Registers a new user with a username and password.--->
