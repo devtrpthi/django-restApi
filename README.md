@@ -2,7 +2,7 @@
 This is a Django project that implements a backend structure for managing users, clients, and artists.
 </br>
 
-<h2>Installation</h2>
+## Installation
 clone this repository
 </br>
-```git clone https://github.com/devtrpthi/django-restApi```
+```git clone https://github.com/devtrpthi/django-restApi.git```
