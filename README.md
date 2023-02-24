@@ -2,7 +2,10 @@
 This is a Django project that implements a backend structure for managing users, clients, and artists.
 </br>
 <h2>Installation</h2>
-Clone the repository using the command git clone https://github.com/devtrpthi/django-restApi.git.
+Clone the repository using the command 
+```
+git clone https://github.com/devtrpthi/django-restApi.git.
+```
 </br>Navigate to the project directory using the command cd project.
 </br>Run the database migrations using the command python manage.py migrate.
 
