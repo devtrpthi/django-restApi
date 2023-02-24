@@ -3,6 +3,8 @@ This is a Django project that implements a backend structure for managing users,
 </br>
 <h2>Installation</h2>
 Clone the repository using the command 
+
+</br>
 ```
 git clone https://github.com/devtrpthi/django-restApi.git.
 ```
