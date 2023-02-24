@@ -1,1 +1,1 @@
-Intern Project
+A django-rest project .
