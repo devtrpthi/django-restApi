@@ -4,7 +4,7 @@ This is a Django project that implements a backend structure for managing users,
 <h2>Installation</h2>
 Clone the repository using the command 
 </br>
-```git clone https://github.com/devtrpthi/django-restApi.git```
+```git clone https://github.com/devtrpthi/django-restApi```
 </br>Navigate to the project directory using the command cd project.
 </br>Run the database migrations using the command python manage.py migrate.
 
